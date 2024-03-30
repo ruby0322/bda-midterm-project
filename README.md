@@ -2,6 +2,6 @@
 
 The notebook is intended for colab runtime.
 
-![screenshot](bda-midterm-project_ipynb - Colaboratory.jpeg)
+![screenshot](screenshot.jpeg)
 
 Dataset will be automatically downloaded once ran on colab.
